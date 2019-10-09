@@ -75,7 +75,7 @@ void loop() {
     {
       Serial.println('A');         
     }
-  delay(1000);    
+  delay(1200);    
 }
 
 void cancelEmergency()
